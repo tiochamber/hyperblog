@@ -1,0 +1,5 @@
+Este es un archivo de texto.
+
+Lo voy a usar en la clase de Git y GitHub.
+
+A ver pues...
