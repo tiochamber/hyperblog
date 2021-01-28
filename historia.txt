@@ -4,4 +4,6 @@ Lo voy a usar en la clase de Git y GitHub.
 
 A ver pues...
 
+jseduardo se unió al equipo de este proyecto hyperblog.
+
 Primer cambio, luego del primer commit.
